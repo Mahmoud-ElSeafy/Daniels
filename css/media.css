@@ -1,0 +1,499 @@
+ /* Animation [Larry Daniels - Developer - Designer] */
+@keyframes identification-typer { 
+
+    00% {content:" |";}
+    01% {content:"L |";}
+    02% {content:"La |";}
+    03% {content:"Lar |";}
+    04% {content:"Larr |";}
+    05% {content:"Larry |";}
+    06% {content:"Larry  |";}
+    07% {content:"Larry D |";}
+    08% {content:"Larry Da |";}
+    09% {content:"Larry Dan |";}
+    10% {content:"Larry Dani |";}
+    11% {content:"Larry Danie |";}
+    12% {content:"Larry Daniel |";}
+    13% {content:"Larry Daniels |";}
+    25% {content:"Larry Daniels |";}
+    26% {content:"Larry Daniel |";}
+    27% {content:"Larry Danie |";}
+    28% {content:"Larry Dani |";}
+    29% {content:"Larry Dan |";}
+    30% {content:"Larry Da |";}
+    31% {content:"Larry D |";}
+    32% {content:"Larry  |";}
+    33% {content:"Larry |";}
+    34% {content:"Larr |";}
+    35% {content:"Lar |";}
+    36% {content:"La |";}
+    37% {content:"L |";}
+    38% {content:" |";}
+    40% {content:" |";}
+    41% {content:"D |";}
+    42% {content:"De |";}
+    43% {content:"Dev |";}
+    44% {content:"Deve |";}
+    45% {content:"Devel |";}
+    46% {content:"Develo |";}
+    47% {content:"Develop |";}
+    48% {content:"Develope |";}
+    49% {content:"Developer |";}
+    61% {content:"Developer |";}
+    62% {content:"Develope |";}
+    63% {content:"Develop |";}
+    64% {content:"Develo |";}
+    65% {content:"Devel |";}
+    66% {content:"Deve |";}
+    67% {content:"Dev |";}
+    68% {content:"De |";}
+    69% {content:"D |";}
+    70% {content:" |";}
+    72% {content:" |";}
+    73% {content:"D |";}
+    74% {content:"De |";}
+    75% {content:"Des |";}
+    76% {content:"Desi |";}
+    77% {content:"Desig |";}
+    78% {content:"Design |";}
+    79% {content:"Designe |";}
+    80% {content:"Designer |";}
+    92% {content:"Designer |";}
+    93% {content:"Designe |";}
+    94% {content:"Design |";}
+    95% {content:"Desig |";}
+    96% {content:"Desi |";}
+    97% {content:"Des |";}
+    98% {content:"De |";}
+    99% {content:"D |";}
+    100% {content:" |";}
+   
+}
+
+/* Counter 850 */
+@keyframes counting-1 {
+    
+    00% {content:"0";}
+    01% {content:"9";}
+    02% {content:"17";}
+    03% {content:"26";}
+    04% {content:"34";}
+    05% {content:"43";}
+    06% {content:"51";}
+    07% {content:"60";}
+    08% {content:"68";}
+    09% {content:"77";}
+    10% {content:"85";}
+    11% {content:"94";}
+    12% {content:"102";}
+    13% {content:"111";}
+    14% {content:"119";}
+    15% {content:"128";}
+    16% {content:"136";}
+    17% {content:"145";}
+    18% {content:"153";}
+    19% {content:"162";}
+    20% {content:"170";}
+    21% {content:"179";}
+    22% {content:"187";}
+    23% {content:"196";}
+    24% {content:"204";}
+    25% {content:"213";}
+    26% {content:"221";}
+    27% {content:"230";}
+    28% {content:"238";}
+    29% {content:"247";}
+    30% {content:"255";}
+    31% {content:"264";}
+    32% {content:"272";}
+    33% {content:"281";}
+    34% {content:"289";}
+    35% {content:"298";}
+    36% {content:"306";}
+    37% {content:"315";}
+    38% {content:"323";}
+    39% {content:"332";}
+    40% {content:"340";}
+    41% {content:"349";}
+    42% {content:"357";}
+    43% {content:"366";}
+    44% {content:"374";}
+    45% {content:"383";}
+    46% {content:"391";}
+    47% {content:"400";}
+    48% {content:"408";}
+    49% {content:"417";}
+    50% {content:"425";}
+    51% {content:"434";}
+    52% {content:"442";}
+    53% {content:"451";}
+    54% {content:"459";}
+    55% {content:"468";}
+    56% {content:"476";}
+    57% {content:"485";}
+    58% {content:"493";}
+    59% {content:"502";}
+    60% {content:"510";}
+    61% {content:"519";}
+    62% {content:"527";}
+    63% {content:"536";}
+    64% {content:"544";}
+    65% {content:"553";}
+    66% {content:"561";}
+    67% {content:"570";}
+    68% {content:"578";}
+    69% {content:"587";}
+    70% {content:"595";}
+    71% {content:"604";}
+    72% {content:"612";}
+    73% {content:"621";}
+    74% {content:"629";}
+    75% {content:"638";}
+    76% {content:"646";}
+    77% {content:"655";}
+    78% {content:"663";}
+    79% {content:"672";}
+    80% {content:"680";}
+    81% {content:"689";}
+    82% {content:"697";}
+    83% {content:"706";}
+    84% {content:"714";}
+    85% {content:"723";}
+    86% {content:"731";}
+    87% {content:"740";}
+    88% {content:"748";}
+    89% {content:"757";}
+    90% {content:"765";}
+    91% {content:"774";}
+    92% {content:"782";}
+    93% {content:"791";}
+    94% {content:"799";}
+    95% {content:"808";}
+    96% {content:"816";}
+    97% {content:"825";}
+    98% {content:"833";}
+    99% {content:"842";}
+    100% {content:"850";}    
+
+}
+
+/* Counter 230 */
+@keyframes counting-2 {
+    
+    00% {content:"0";}
+    01% {content:"2";}
+    02% {content:"5";}
+    03% {content:"7";}
+    04% {content:"9";}
+    05% {content:"12";}
+    06% {content:"14";}
+    07% {content:"16";}
+    08% {content:"18";}
+    09% {content:"21";}
+    10% {content:"23";}
+    11% {content:"25";}
+    12% {content:"28";}
+    13% {content:"30";}
+    14% {content:"32";}
+    15% {content:"35";}
+    16% {content:"37";}
+    17% {content:"39";}
+    18% {content:"41";}
+    19% {content:"44";}
+    20% {content:"46";}
+    21% {content:"48";}
+    22% {content:"51";}
+    23% {content:"53";}
+    24% {content:"55";}
+    25% {content:"58";}
+    26% {content:"60";}
+    27% {content:"62";}
+    28% {content:"64";}
+    29% {content:"67";}
+    30% {content:"69";}
+    31% {content:"71";}
+    32% {content:"74";}
+    33% {content:"76";}
+    34% {content:"78";}
+    35% {content:"81";}
+    36% {content:"83";}
+    37% {content:"85";}
+    38% {content:"87";}
+    39% {content:"90";}
+    40% {content:"92";}
+    41% {content:"94";}
+    42% {content:"97";}
+    43% {content:"99";}
+    44% {content:"101";}
+    45% {content:"104";}
+    46% {content:"106";}
+    47% {content:"108";}
+    48% {content:"110";}
+    49% {content:"113";}
+    50% {content:"115";}
+    51% {content:"117";}
+    52% {content:"120";}
+    53% {content:"122";}
+    54% {content:"124";}
+    55% {content:"127";}
+    56% {content:"129";}
+    57% {content:"131";}
+    58% {content:"133";}
+    59% {content:"136";}
+    60% {content:"138";}
+    61% {content:"140";}
+    62% {content:"143";}
+    63% {content:"145";}
+    64% {content:"147";}
+    65% {content:"150";}
+    66% {content:"152";}
+    67% {content:"154";}
+    68% {content:"156";}
+    69% {content:"159";}
+    70% {content:"161";}
+    71% {content:"163";}
+    72% {content:"166";}
+    73% {content:"168";}
+    74% {content:"170";}
+    75% {content:"173";}
+    76% {content:"175";}
+    77% {content:"177";}
+    78% {content:"179";}
+    79% {content:"182";}
+    80% {content:"184";}
+    81% {content:"186";}
+    82% {content:"189";}
+    83% {content:"191";}
+    84% {content:"193";}
+    85% {content:"196";}
+    86% {content:"198";}
+    87% {content:"200";}
+    88% {content:"202";}
+    89% {content:"205";}
+    90% {content:"207";}
+    91% {content:"209";}
+    92% {content:"212";}
+    93% {content:"214";}
+    94% {content:"216";}
+    95% {content:"219";}
+    96% {content:"221";}
+    97% {content:"223";}
+    98% {content:"225";}
+    99% {content:"228";}
+    100% {content:"230";}
+
+}
+
+/* Counter 9450 */
+@keyframes counting-3 {
+    
+    00% {content:"0";}
+    01% {content:"95";}
+    02% {content:"189";}
+    03% {content:"284";}
+    04% {content:"378";}
+    05% {content:"473";}
+    06% {content:"567";}
+    07% {content:"662";}
+    08% {content:"756";}
+    09% {content:"851";}
+    10% {content:"945";}
+    11% {content:"1040";}
+    12% {content:"1134";}
+    13% {content:"1229";}
+    14% {content:"1323";}
+    15% {content:"1418";}
+    16% {content:"1512";}
+    17% {content:"1607";}
+    18% {content:"1701";}
+    19% {content:"1796";}
+    20% {content:"1890";}
+    21% {content:"1985";}
+    22% {content:"2079";}
+    23% {content:"2174";}
+    24% {content:"2268";}
+    25% {content:"2363";}
+    26% {content:"2457";}
+    27% {content:"2552";}
+    28% {content:"2646";}
+    29% {content:"2741";}
+    30% {content:"2835";}
+    31% {content:"2930";}
+    32% {content:"3024";}
+    33% {content:"3119";}
+    34% {content:"3213";}
+    35% {content:"3308";}
+    36% {content:"3402";}
+    37% {content:"3497";}
+    38% {content:"3591";}
+    39% {content:"3686";}
+    40% {content:"3780";}
+    41% {content:"3875";}
+    42% {content:"3969";}
+    43% {content:"4064";}
+    44% {content:"4158";}
+    45% {content:"4253";}
+    46% {content:"4347";}
+    47% {content:"4442";}
+    48% {content:"4536";}
+    49% {content:"4631";}
+    50% {content:"4725";}
+    51% {content:"4820";}
+    52% {content:"4914";}
+    53% {content:"5009";}
+    54% {content:"5103";}
+    55% {content:"5198";}
+    56% {content:"5292";}
+    57% {content:"5387";}
+    58% {content:"5481";}
+    59% {content:"5576";}
+    60% {content:"5670";}
+    61% {content:"5765";}
+    62% {content:"5859";}
+    63% {content:"5954";}
+    64% {content:"6048";}
+    65% {content:"6143";}
+    66% {content:"6237";}
+    67% {content:"6332";}
+    68% {content:"6426";}
+    69% {content:"6521";}
+    70% {content:"6615";}
+    71% {content:"6710";}
+    72% {content:"6804";}
+    73% {content:"6899";}
+    74% {content:"6993";}
+    75% {content:"7088";}
+    76% {content:"7182";}
+    77% {content:"7277";}
+    78% {content:"7371";}
+    79% {content:"7466";}
+    80% {content:"7560";}
+    81% {content:"7655";}
+    82% {content:"7749";}
+    83% {content:"7844";}
+    84% {content:"7938";}
+    85% {content:"8033";}
+    86% {content:"8127";}
+    87% {content:"8222";}
+    88% {content:"8316";}
+    89% {content:"8411";}
+    90% {content:"8505";}
+    91% {content:"8600";}
+    92% {content:"8694";}
+    93% {content:"8789";}
+    94% {content:"8883";}
+    95% {content:"8978";}
+    96% {content:"9072";}
+    97% {content:"9167";}
+    98% {content:"9261";}
+    99% {content:"9356";}
+    100% {content:"9450";}
+
+}
+
+/* Counter 780 */
+@keyframes counting-4 {
+    
+    00% {content:"0";}
+    01% {content:"8";}
+    02% {content:"16";}
+    03% {content:"23";}
+    04% {content:"31";}
+    05% {content:"39";}
+    06% {content:"47";}
+    07% {content:"55";}
+    08% {content:"62";}
+    09% {content:"70";}
+    10% {content:"78";}
+    11% {content:"86";}
+    12% {content:"94";}
+    13% {content:"101";}
+    14% {content:"109";}
+    15% {content:"117";}
+    16% {content:"125";}
+    17% {content:"133";}
+    18% {content:"140";}
+    19% {content:"148";}
+    20% {content:"156";}
+    21% {content:"164";}
+    22% {content:"172";}
+    23% {content:"179";}
+    24% {content:"187";}
+    25% {content:"195";}
+    26% {content:"203";}
+    27% {content:"211";}
+    28% {content:"218";}
+    29% {content:"226";}
+    30% {content:"234";}
+    31% {content:"242";}
+    32% {content:"250";}
+    33% {content:"257";}
+    34% {content:"265";}
+    35% {content:"273";}
+    36% {content:"281";}
+    37% {content:"289";}
+    38% {content:"296";}
+    39% {content:"304";}
+    40% {content:"312";}
+    41% {content:"320";}
+    42% {content:"328";}
+    43% {content:"335";}
+    44% {content:"343";}
+    45% {content:"351";}
+    46% {content:"359";}
+    47% {content:"367";}
+    48% {content:"374";}
+    49% {content:"382";}
+    50% {content:"390";}
+    51% {content:"398";}
+    52% {content:"406";}
+    53% {content:"413";}
+    54% {content:"421";}
+    55% {content:"429";}
+    56% {content:"437";}
+    57% {content:"445";}
+    58% {content:"452";}
+    59% {content:"460";}
+    60% {content:"468";}
+    61% {content:"476";}
+    62% {content:"484";}
+    63% {content:"491";}
+    64% {content:"499";}
+    65% {content:"507";}
+    66% {content:"515";}
+    67% {content:"523";}
+    68% {content:"530";}
+    69% {content:"538";}
+    70% {content:"546";}
+    71% {content:"554";}
+    72% {content:"562";}
+    73% {content:"569";}
+    74% {content:"577";}
+    75% {content:"585";}
+    76% {content:"593";}
+    77% {content:"601";}
+    78% {content:"608";}
+    79% {content:"616";}
+    80% {content:"624";}
+    81% {content:"632";}
+    82% {content:"640";}
+    83% {content:"647";}
+    84% {content:"655";}
+    85% {content:"663";}
+    86% {content:"671";}
+    87% {content:"679";}
+    88% {content:"686";}
+    89% {content:"694";}
+    90% {content:"702";}
+    91% {content:"710";}
+    92% {content:"718";}
+    93% {content:"725";}
+    94% {content:"733";}
+    95% {content:"741";}
+    96% {content:"749";}
+    97% {content:"757";}
+    98% {content:"764";}
+    99% {content:"772";}
+    100% {content:"780";}
+   
+}
